@@ -6,10 +6,6 @@ RAST4.0:Restorable Arbitrary Style Transfer via Content Leakage Correction
 - PyTorch 1.8.0
 - CUDA 11.1
 
-
-## Please take note of the following considerations
-- RAST framework supports three different network architectures (AdaIN, IEAST, and SANet) with two different training strategies (combined, replaced). If you want to do training or testing, please proceed to the directory of each architecture under specific training strategy folder. The training and testing steps are outlined below:
-
 ## Model Testing
 - Create ''model'', ''content'' and ''style'' folders under specific training strategy folder.
 - Download [VGG pretrained](https://drive.google.com/file/d/1cI6ubAziMdOsSJZEvfofW-iCtnCmsONL/view?usp=share_link) model to ''model'' folder.
