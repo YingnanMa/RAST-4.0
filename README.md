@@ -1,5 +1,5 @@
 # RAST-4.0
-RAST4.0:Restorable Arbitrary Style Transfer via Content Leakage Correction (Accepted by ICSM 2025)
+RAST 4.0: Restorable Arbitrary Style Transfer via Content Leakage Correction (Accepted by ICSM 2025)
 
 ## Requirements  
 - python 3.8
